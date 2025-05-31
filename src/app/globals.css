@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-@theme {
-  /* --breakpoint-custom-range:  { min: '387px', max: '640px' }; */
-}
-
 .wrapper {
   max-width: 1280px;
   margin-inline: auto;
