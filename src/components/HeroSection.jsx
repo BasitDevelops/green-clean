@@ -1,4 +1,4 @@
-import logo from "../assets/images/logo.jpeg";
+import logo from "../assets/images/logo.jpg";
 import Image from "next/image";
 
 const HeroSection = () => {
