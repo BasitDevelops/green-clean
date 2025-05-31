@@ -1,10 +1,10 @@
 "use client";
 import { useRef } from "react";
 import Image from "next/image";
-import before_1 from "../assets/images/after_1.jpg";
-import after_1 from "../assets/images/after_1.jpg";
-import before_2 from "../assets/images/before_2.jpg";
-import after_2 from "../assets/images/after_2.jpg";
+import before_1 from "../assets/images/after_1.png";
+import after_1 from "../assets/images/after_1.png";
+import before_2 from "../assets/images/before_2.png";
+import after_2 from "../assets/images/after_2.png";
 
 // import Swiper core and required modules
 import { Navigation, Pagination } from "swiper/modules";
