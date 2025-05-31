@@ -1,7 +1,7 @@
 "use client";
 import { useRef } from "react";
 import Image from "next/image";
-import before_1 from "../assets/images/after_1.png";
+import before_1 from "../assets/images/before_1.png";
 import after_1 from "../assets/images/after_1.png";
 import before_2 from "../assets/images/before_2.png";
 import after_2 from "../assets/images/after_2.png";
