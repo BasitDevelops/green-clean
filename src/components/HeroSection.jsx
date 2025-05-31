@@ -14,7 +14,7 @@ const HeroSection = () => {
           transparent 20px
         )`,
       }}
-      className="relative -z-10 h-[35vh] w-full"
+      className="relative -z-10 h-[50vh] w-full 2xl:h-[35vh]"
       aria-label="Hero banner"
     >
       <figure className="custom-range-bottom absolute -bottom-10 left-1/2 flex size-[300px] -translate-x-1/2 transform justify-center rounded-full bg-white sm:-bottom-16 md:-bottom-36 md:size-[400px]">

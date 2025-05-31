@@ -41,7 +41,7 @@ const PortfolioSection = () => {
       className="wrapper"
       aria-label="Portfolio showcasing recent lawn mowing and cleaning works with before and after images"
     >
-      <h2 className="mt-6 py-6 text-center text-2xl font-semibold md:mt-12 md:text-4xl">
+      <h2 className="mt-6 py-6 text-center text-2xl font-semibold uppercase md:mt-12 md:text-4xl">
         Our Recent Works
       </h2>
 
